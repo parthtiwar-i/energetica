@@ -1,0 +1,441 @@
+.container1{
+    margin: 15px;
+    padding: 20px;
+    width: 96%;
+    height: 720px;
+    background: url(innovation5.jpg) no-repeat;  
+    background-size:cover;  
+    opacity: 0.8;
+
+}
+
+.symbol{
+    width: 100px;
+    display: inline-block;
+}
+
+nav.navigation{
+    display: flex;
+    align-content: center;
+    flex-wrap: nowrap;
+
+}
+
+nav.navigation a{
+    text-decoration: none;
+    font-size: 25px;
+    color: rgb(255, 255, 255);
+    margin: 30px;
+    font-family: 'Permanent Marker', cursive;
+
+}
+nav.navigation a:hover{
+    color: rgba(255, 255, 255, 0.562);
+}
+
+.headtext{
+    display: inline-block;
+    margin: 0px;
+    font-size: 70px;
+    color:rgb(255, 255, 255);
+    position: relative;
+    left: 40%;
+    top: 20%;
+    font-weight: 700;
+    word-wrap: break-word;
+    font-family: 'PT Serif', serif;
+}
+
+.subtext1{
+    display: inline-block;
+    color: rgb(255, 255, 255);
+    font-size:25px ;
+    font-weight: 300;
+    display: inline-block;
+    position: relative;
+    font-family: 'Sedgwick Ave', cursive;
+    position: relative;
+    left: 20%;
+    top: 30%;
+}
+
+section.container2{
+    display: flex;
+    margin: 5px;
+    flex-wrap: nowrap;
+}
+
+.img2{
+    padding: 10px;
+    width: 50%;
+}
+
+.subcontainer2{
+    overflow: hidden;
+    text-align: center;
+    background-color: #f2f2f2;
+    margin: 10px;
+    padding: 10px;
+}
+
+.text2{
+    font-weight: bolder;
+    font-size: 40px;
+    color: rgb(37, 28, 9);
+    font-family: 'PT Serif', serif;
+    position: relative;
+    top: 10%;
+}
+
+.subtext2{
+    font-weight: 500;
+    font-family: 'Sedgwick Ave', cursive;
+    position: relative;
+    top: 10%;
+    color: rgba(37, 28, 9, 0.849);
+
+}
+.subtext2_0{
+    position: relative;
+    top: 15%;
+    font-size: 25px;
+    font-family: 'Dongle', sans-serif;
+}
+
+.button1{
+    position: relative;
+    top: 20%;
+    border-radius: 2px;
+    width: 30%;
+    height: 10%;
+    border: 5px 5px rgb(0, 0, 0);
+    font-size: 15px;
+    cursor: pointer;
+}
+.button1:hover{
+    background-color: rgba(128, 128, 128, 0.685);
+    color: white;
+}
+
+.container3{
+    display: flex;
+    margin: 5px;
+    flex-wrap: nowrap;
+}
+.img3{
+    width: 47.3%;
+    height: 10%;
+    padding: 10px;
+}
+
+.subcontainer3{
+    overflow: hidden;
+    text-align: center;
+    background-color: #f2f2f2;
+    margin: 10px;
+    padding: 10px;
+}
+
+.text3{
+    font-weight: bolder;
+    font-size: 40px;
+    color: rgb(37, 28, 9);
+    font-family: 'PT Serif', serif;
+    position: relative;
+    top: 20%;
+}
+
+.subtext3{
+    font-weight: 500;
+    font-family: 'Sedgwick Ave', cursive;
+    position: relative;
+    top: 20%;
+    color: rgba(37, 28, 9, 0.849);
+
+}
+.subtext3_0{
+    position: relative;
+    top: 25%;
+    font-size: 25px;
+    font-family: 'Dongle', sans-serif;
+}
+
+.button2{
+    position: relative;
+    top: 30%;
+    border-radius: 2px;
+    width: 30%;
+    height: 5%;
+    border: 5px 5px rgb(0, 0, 0);
+    font-size: 15px;
+    cursor: pointer;
+}
+.button2:hover{
+    background-color: rgba(128, 128, 128, 0.432) ;
+    color: white;
+}
+
+.shortmain{
+    margin: 20px 5px ;
+    padding: 50px ;
+}
+
+.short{
+    display: flex;
+    justify-content:space-around;
+    flex-wrap: nowrap;
+}
+.set-1{
+    font-size: 40px;
+    font-family: 'PT Serif', serif;
+    color: rgb(37, 28, 9);
+    font-weight: 800;
+}
+.set-2{
+    font-family: 'Sedgwick Ave', cursive;    
+    color: rgba(37, 28, 9, 0.849);
+    font-size: 20px;
+}
+
+.container4{
+    display: flex;
+    margin: 5px;
+}
+.img4{
+    width: 50%;
+    height: 10%;
+    padding: 10px;
+}
+
+.subcontainer4{
+    overflow: hidden;
+    text-align: center;
+    background-color: #f2f2f2;
+    margin: 10px;
+    padding: 10px;
+}
+
+.text4{
+    font-weight: bolder;
+    font-size: 40px;
+    color: rgb(37, 28, 9);
+    font-family: 'PT Serif', serif;
+    position: relative;
+    top: 20%;
+}
+
+.subtext4{
+    font-weight: 500;
+    font-family: 'Sedgwick Ave', cursive;
+    position: relative;
+    top: 20%;
+    color: rgba(37, 28, 9, 0.849);
+
+}
+.subtext4_0{
+    position: relative;
+    top: 25%;
+    font-size: 25px;
+    font-family: 'Dongle', sans-serif;
+}
+.button3{
+    position: relative;
+    top: 30%;
+    border-radius: 2px;
+    width: 30%;
+    height: 10%;
+    border: 5px 5px rgb(0, 0, 0);
+    font-size: 15px;
+    cursor: pointer;
+}
+.button3:hover{
+    background-color: rgba(128, 128, 128, 0.432) ;
+    color: white;
+}
+
+.container5{
+    display: flex;
+    justify-content: space-between;
+    margin: 5px;
+}
+.subcontainer5{
+    background-color: #f2f2f2;
+    margin: 10px;
+    text-align: center;
+    padding: 30px;
+}
+
+.subcontainer5:hover{
+    background-color: rgba(216, 191, 216, 0.664);
+}
+
+.logo{
+    width: 25%;
+    padding: 10px;
+}
+
+.brand_name{
+    font-size: 40px;
+    font-weight: 800;
+    font-family: 'PT Serif', serif;
+    color: rgb(37, 28, 9);
+}
+
+.subtext5{
+    font-family: 'Dongle', sans-serif;
+    font-size: 25px;    
+    color: rgba(37, 28, 9, 0.849);
+}
+
+.container6{
+    padding: 60px;
+}
+
+.text5{
+    font-weight:900;
+    font-size: 40px;
+    color: rgb(37, 28, 9);
+    font-family: 'PT Serif', serif;
+    position: relative;
+    top: 20%;
+    text-align: center;
+}
+
+.subtext6{
+    text-align: center;
+    font-family: 'Dongle', sans-serif;
+    font-size: 30px;    
+    color: rgba(37, 28, 9, 0.849);
+}
+
+
+.container7{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    
+}
+
+.text6{
+    font-weight: bolder;
+    font-size: 40px;
+    color: rgb(37, 28, 9);
+    font-family: 'PT Serif', serif;
+    position: relative;
+}
+
+.subtext7{
+    font-family: 'Dongle', sans-serif;
+    font-size: 25px;    
+    color: rgba(37, 28, 9, 0.849);
+}
+
+.subtext7_0{
+    position: relative;
+    font-size: 25px;
+    font-family: 'Dongle', sans-serif;
+}
+
+
+.subcontainer7{
+    text-align: center;
+    padding: 10px;
+    margin: 7px;
+    width: 22%;
+    background-color: #f2f2f2;
+    justify-content: space-around;
+
+}
+
+.img7{
+    margin: 10px;
+    background-color: #f2f2f2;
+    justify-content: space-around;
+    /* padding: 10px; */
+    width: 23%;
+    text-align: center;
+    cursor: pointer;
+}
+
+.img7:hover{
+    opacity: 0.9;
+    border: 2px black;
+    background: #e1e1e1;
+    box-shadow: 0 0 0 2px #d0d0d0;
+}
+
+.subcontainer8{
+    padding: 40px;
+}
+
+.text7{
+    text-align: center;
+    font-weight: bolder;
+    font-size: 40px;
+    color: rgba(37, 28, 9, 0.979);
+    font-family: 'PT Serif', serif;
+    position: relative;
+
+}
+
+.subtext8{
+    text-align: center;
+    font-family: 'Sedgwick Ave', cursive;
+    font-size: 20px;    
+    color: rgba(37, 28, 9, 0.904);
+}
+
+
+form{
+    padding: 40px;
+}
+.Name,.mail,.msg{
+    text-align: center;
+    padding: 10px;
+    font-weight: 700;
+    font-family: 'PT Serif', serif;
+
+} 
+
+input[type=text],input[type=email],textarea{
+    width: 50%;
+    height: 20px;
+}
+
+input[type=submit]{
+    padding: 10px;
+    width: 10%;
+    cursor: pointer;
+        
+
+}
+input[type=submit]:hover{
+    color: rgb(0, 0, 0);
+    background-color: rgba(128, 128, 128, 0.877);
+}
+
+#submit{
+    text-align: center;
+}
+
+footer{
+    background-color: #333;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+    padding: 30px;
+
+}
+
+a{
+    
+    color: white;
+    text-decoration: none;
+    justify-content: space-around;
+}
+
+a:hover{
+    color: grey;
+
+}
